@@ -11,7 +11,7 @@ function showMessage() {
     const reversedStr = str.split('').reverse().join('');
     return str === reversedStr;
   }
-  console.log(isPalindrome("боди в боди")); 
+  console.log(isPalindrome("пельмени")); 
   console.log(isPalindrome("hello")); 
 
 
